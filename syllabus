@@ -1,0 +1,25 @@
+Syllabus: 
+1. Introduction to Git/GitHub/Gitlab: 
+		Introduction to Version control systems, 
+		Creating GitHub repository, 
+		Using Git – Introduction to get commands, 
+		Creating projects on Github/Gitlab and managing code repos
+	
+	2. Introduction to Cloud Computing: 
+		Cloud Computing Basics
+		Understanding Cloud Vendors 
+			AWS:EC2 instance
+			lambda and Azure: 
+				Azure virtual machines
+				Azure data factory
+		Definition, Characteristics, Components
+		Cloud provider, 
+		SAAS, PAAS, IAAS and other Organizational scenarios of clouds
+		benefits and limitations, 
+		Deploy application over cloud. 
+		Comparison among SAAS, PAAS, IAAS, 
+		Cloud Products and Solutions
+		Compute Products and Services
+		Elastic Cloud Compute
+
+Sample Mini Project: deploy AI and analytics workloads in Cloud environments with 
